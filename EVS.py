@@ -11,7 +11,7 @@ import matplotlib.backends.backend_pdf as pdf
 # Twilio credentials
 account_sid = '--------------------------------'
 auth_token = '--------------------------------'
-twilio_number = '+14843244418'
+twilio_number = '------------'
 
 # Initialize Twilio client
 client = Client(account_sid, auth_token)
