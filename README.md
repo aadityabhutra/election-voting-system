@@ -87,11 +87,6 @@ A modern, GUI-based Election Voting System built with Python's Tkinter library. 
 
 ---
 
-## Screenshots
-
-> _Add screenshots of your application's UI here to showcase its features._
-
----
 
 ## Contributing
 
